@@ -1,0 +1,6 @@
+1000 George Washington 10000
+2000 John Adams 15000
+1212 Thomas Jefferson 34000
+1313 Abraham Lincoln 45000
+1515 Jimmy Carter 78000
+1717 George Bush 80000
